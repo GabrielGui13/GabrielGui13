@@ -2,8 +2,4 @@
 
 [![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGui13&show_icons=true&theme=radical)](https://github.com/gabrielgui13a/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGui13&layout=compact)](https://github.com/gabrielgui13/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielgui13)](https://github.com/gabrielgui13/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGui13&layout=compact&theme=radical)](https://github.com/gabrielgui13/github-readme-stats)
