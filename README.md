@@ -4,5 +4,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGui13&layout=compact&theme=radical)
 
-# ![My Certificates](https://github.com/GabrielGui13/Certificates)
+## [My Certificates](https://github.com/GabrielGui13/Certificates)
 
